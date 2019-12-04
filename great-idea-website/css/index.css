@@ -186,6 +186,9 @@
             .header-div p {
                 text-align: center;
                 border: 1px solid grey;
+                display: inline-block;
+                margin-left: 38%;
+                padding: 3px 40px;
             }
             
             header img {
@@ -208,25 +211,29 @@
                 width: 48%;
             }
             
+            .middle-img {
+                width: 100%;
+            }
+            
             .sectionTwo {
                 margin: 45px 0;
             }
             
             .div1 {
                 display: inline-block;
-                width: 31%;
+                width: 32%;
                 margin-right: 12px;
             }
             
             .div2 {
                 display: inline-block;
-                width: 31%;
+                width: 32%;
                 margin-right: 12px;
             }
             
             .div3 {
                 display: inline-block;
-                width: 31%;
+                width: 32%;
                 margin-left: 12px;
             }
             
