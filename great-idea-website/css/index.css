@@ -136,7 +136,6 @@
             
             * {
                 box-sizing: border-box;
-                border: 1px solid grey;
             }
             
             html,
@@ -157,7 +156,7 @@
             /* Your code starts here! */
             
             body {
-                margin: 25px;
+                margin: 4%;
             }
             
             nav a {
@@ -170,22 +169,30 @@
                 margin-right: 0;
             }
             
-            header h1,
-            header img,
-            header button {
-                display: inline-block;
-            }
-            /* header h1 {
-                font-size: 37px;
-                width: 20%;
-                margin: 30px 40px;
+            header {
+                margin: 120px;
             }
             
-            header button {
-                padding: 5px 25px;
-                border: 1px solid black;
-            } */
-            /*             
+            .header-div {
+                display: inline-block;
+            }
+            
+            .header-div {
+                width: 65%;
+                margin: 0 auto;
+            }
+            
+            .header-div h1 {
+                font-size: 80px;
+                text-align: center;
+            }
+            
+            .header-div p {
+                text-align: center;
+                border: 1px solid grey;
+            }
+            
             header img {
-                width: 30%;
-            } */
+                width: 33%;
+                margin: 0 auto;
+            }
