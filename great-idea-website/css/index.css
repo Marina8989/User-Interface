@@ -229,3 +229,12 @@
                 width: 31%;
                 margin-left: 12px;
             }
+            
+            .sectionThree {
+                margin: 45px 0;
+            }
+            
+            footer {
+                margin: 55px 0;
+                text-align: center;
+            }
