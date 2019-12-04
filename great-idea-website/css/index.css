@@ -165,10 +165,6 @@
                 color: grey;
             }
             
-            .logo {
-                margin-right: 0;
-            }
-            
             header {
                 margin: 120px;
             }
@@ -195,4 +191,41 @@
             header img {
                 width: 33%;
                 margin: 0 auto;
+            }
+            
+            .sectionOne {
+                margin: 45px 0;
+            }
+            
+            .divOne {
+                display: inline-block;
+                width: 48%;
+                margin-right: 40px;
+            }
+            
+            .divTwo {
+                display: inline-block;
+                width: 48%;
+            }
+            
+            .sectionTwo {
+                margin: 45px 0;
+            }
+            
+            .div1 {
+                display: inline-block;
+                width: 31%;
+                margin-right: 12px;
+            }
+            
+            .div2 {
+                display: inline-block;
+                width: 31%;
+                margin-right: 12px;
+            }
+            
+            .div3 {
+                display: inline-block;
+                width: 31%;
+                margin-left: 12px;
             }
